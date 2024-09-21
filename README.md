@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
+<img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif"  />
 
 ###
 
@@ -35,6 +35,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" alt="visualstudio logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="30" alt="vim logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
 </div>
 
 ###
@@ -56,8 +60,8 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/v1c70rn00b/v1c70rn00b/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img height="200" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif"  />
+</div>
 
 ###
